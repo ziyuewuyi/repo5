@@ -1,5 +1,7 @@
 package test;
 
+import javax.xml.bind.SchemaOutputResolver;
+
 public class Demo {
     public static void main(String[] args) {
         System.out.println("first commmit");
@@ -10,5 +12,6 @@ public class Demo {
         System.out.println("戏说不是胡说，改编不是乱编");
         System.out.println("大家好，我是渣渣辉");
         System.out.println("小王，做一个新功能");
+        System.out.println("小王，一周后新项目上线");
     }
 }
