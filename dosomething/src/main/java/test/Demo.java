@@ -9,6 +9,9 @@ public class Demo {
         System.out.println("文体两开花");
         System.out.println("戏说不是胡说，改编不是乱编");
         System.out.println("大家好，我是渣渣辉");
-
+        System.out.println("小王，做一个新功能");
+        System.out.println("小王，一周后新项目上线");
+        System.out.println("语音功能开发中。。。。。。");
+        System.out.println("新功能开发到一半");
     }
 }
