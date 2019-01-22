@@ -5,7 +5,6 @@ public class Demo {
         System.out.println("first commmit");
         System.out.println("second commit");
         System.out.println("i am laiangnaduo dikapuliao");
-
         System.out.println("猴戏不姓帐，望百花齐放");
         System.out.println("文体两开花");
         System.out.println("戏说不是胡说，改编不是乱编");
