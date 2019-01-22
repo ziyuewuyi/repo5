@@ -11,5 +11,11 @@ public class Demo {
         System.out.println("大家好，我是渣渣辉");
         System.out.println("贪玩蓝月，师兄弟就来砍我");
 
+        System.out.println("小王，做一个新功能");
+        System.out.println("小王，一周后新项目上线");
+        System.out.println("语音功能开发中。。。。。。");
+        System.out.println("新功能开发到一半");
+        System.out.println("新功能开发到百分之八十");
+        System.out.println("新功能开发到百分之百");
     }
 }
