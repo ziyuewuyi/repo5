@@ -44,7 +44,7 @@ public class Student {
                 '}';
     }
 
-
-    1111111
-    2222222
+  public void branch(){
+      System.out.println("master分支");
+  }
 }
