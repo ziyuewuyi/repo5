@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("bxu分支：test1");
         System.out.println("bxu分支：test1");
         System.out.println("bxu分支：test1");
+        System.out.println("master分支：test1");
     }
 }
